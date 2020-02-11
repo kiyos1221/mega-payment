@@ -56,4 +56,3 @@ make payment
 
  - **Methods**
       - `makePayment()`
-      - `authenticatedPayRequest()`
